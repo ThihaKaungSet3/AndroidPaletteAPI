@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         mCover = findViewById(R.id.cover);
         mDominent = findViewById(R.id.dominent);
 
-        load("https://cdn.inprnt.com/thumbs/92/d8/92d875a35515490a0a3a7c6570508c3d.jpg");
+        load("https://cdn.cinematerial.com/p/500x/2hn4zfgx/the-addams-family-movie-poster.jpg?v=1553940120");
     }
 
     private void load(String url){
